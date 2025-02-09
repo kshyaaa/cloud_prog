@@ -15,6 +15,9 @@ public class HelloGitHub {
 		System.out.println("Hello, Github!");
 
 		// Prints Current Date
-		System.out.println("Current Date and Time: " + formattedDateTime);		
+		System.out.println("Current Date and Time: " + formattedDateTime);	
+
+		// This is the merged code
+		System.out.println("Merged code.")
 	}
 }
